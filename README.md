@@ -5,4 +5,4 @@ In this project, I tried clonning this site.
 
 *While cloning the site, there may be problems on some screens as I am at the beginning of my course and have not learned the responsive structure.*
 
-![image](exxenss1.png)
+![image](file:///C:/Users/yusuf%20islam%20bilici/Desktop/exxenss1.png)
